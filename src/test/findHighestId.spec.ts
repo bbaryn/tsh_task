@@ -1,4 +1,3 @@
-
 import { findHighestId } from '../helpers/findHighestId';
 import { mockMovies } from './mocks';
 
